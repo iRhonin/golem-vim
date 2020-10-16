@@ -1,0 +1,6 @@
+vim
+.vscode/
+log
+.swp/
+*.gvmi
+.swp
